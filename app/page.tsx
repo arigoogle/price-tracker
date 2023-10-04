@@ -15,6 +15,8 @@ const Home = () => {
                 alt="arrow-right"
                 width={16}
                 height={16}
+                className='object-contain'
+                unoptimized
               />
             </p>
             <h1 className="head-text">
